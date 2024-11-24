@@ -90,4 +90,3 @@ SELECT * FROM tabelaprojetos;
 
 -- Remova a tabela funcionarios do banco de dados.
 DROP TABLE Tabelafuncionarios;
-DROP TABLE tabelaprodutos;
