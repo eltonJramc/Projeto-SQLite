@@ -1,7 +1,9 @@
 # Projeto SQLite: Gerenciamento de Funcionários e Projetos.
 
 -> Linguagem utilizada: SQL
+
 -> Plataforma: sqliteonline.
+
 -> Tecnologia: Banco de Dados Relacional. 
 
 ## Descrição
